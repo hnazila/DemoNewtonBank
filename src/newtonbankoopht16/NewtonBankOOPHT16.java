@@ -10,7 +10,8 @@ public class NewtonBankOOPHT16 {
 
     
     public static void main(String[] args) {
-        System.out.println("test from hkr");
+        System.out.println("test i delGruppA");
+        System.out.println("delGruppA andra ändringen");
        
     }
     
